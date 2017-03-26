@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  content: MyText
+  activo: MyString
+  cantidad: 1.5
+  tipo: MyString
+  fecha_abierta: MyString
+  fecha_cerrada: MyString
+  abrir: 1.5
+  cerrar: 1.5
+  motivo_para_cerrar: MyString
+  pago: 1.5
+  ganancias: 1.5
+  user_id: 
+
+two:
+  content: MyText
+  activo: MyString
+  cantidad: 1.5
+  tipo: MyString
+  fecha_abierta: MyString
+  fecha_cerrada: MyString
+  abrir: 1.5
+  cerrar: 1.5
+  motivo_para_cerrar: MyString
+  pago: 1.5
+  ganancias: 1.5
+  user_id: 
